@@ -1,0 +1,37 @@
+Hii Guyss!!!!
+
+I just love to play lots of games but i was bored with the maze game which i play, i got a thought
+i should be building same maze game with lil bit of twist.
+
+[--Memory_maze Game--]
+
+Well twist in the game are:
+
+1) Changing walls
+2) Try to block you
+3) Enemy run's behind you not eat you but to confuse you (which makes you run out of time :)..)
+
+Game Controls
+[press]
+Navigation buttons- up,down,left,right
+F- flashback
+Q- quit
+R- restast
+
+
+How to run this Game
+
+just get this code in you python env:
+
+Make sure you have "pygame lib"
+to install - pip install pygame
+
+bang!!! go for it 
+
+
+If you want to collab or share your views on any of my project connect me on linkedin or instagram
+linkedin--https://www.linkedin.com/in/amey-satpute-a59464320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Instagram--https://www.instagram.com/ame_de_demon?igsh=c3VkajcwbmN6ajc2
+
+
